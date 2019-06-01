@@ -1,0 +1,13 @@
+name: lsh.cr
+version: 0.1.0
+
+authors:
+  - TobiasGSmollett <landofscala@gmail.com>
+
+targets:
+  lsh:
+    main: src/lsh.cr
+
+crystal: 0.28.0
+
+license: MIT
